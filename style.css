@@ -1,0 +1,24 @@
+input{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    padding-left: 00px;
+}
+body{
+    margin-left: 400px;
+    background-color: aqua;
+}form{
+    margin-left: 50px;
+    color: rgb(129, 11, 11);
+}
+input:focus{
+    background-color: rgb(26, 211, 19);
+}
+button:hover{
+background-color: rgb(228, 40, 40);
+}button{
+    margin-top: 10px;
+}
